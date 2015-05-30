@@ -3,4 +3,4 @@ This is a repository for JavaScript Tutorial. It has been developed foucusing th
 
 * Just clone the project using the following instruction. *
 
-$ git clone https://github.com/azizurice/JavaScriptTutorial
+$ git clone https://github.com/azizurice/JavaScriptTutorials.git
