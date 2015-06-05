@@ -1,16 +1,17 @@
 /*
- * Assingment-3: Write a JavaScrpt program that will take/read two numbers from Keyboard and display the minus (first nubmer to second number) on the screen.
+ * Assingment-3: Write a JavaScrpt program that will take/read two numbers from Keyboard and display the larger number on the screen.
  *
  */
 
-var a, b, minus;
+var a, b, larger;
+
 a=parseInt(prompt("Enter the first number :",""));
 b=parseInt(prompt("Enter the second number :",""));
-minus=a-b;
-alert("The minus of "+ a +" to "+ b +" is :"+minus);
 
+if(a>b){
+  larger=a;
+}else{
+  larger=b;
+}
 
-/*
-Exception: SyntaxError: unterminated comment
-@Scratchpad/2:1
-*/
+alert("The number is " + a + " and " + b + " larger number " + larger);
