@@ -2,7 +2,7 @@
  * Assingment-3: Write a JavaScrpt program that will take/read three numbers from Keyboard and display the largest number on the screen.
  */
 
-var a, b,c,d,largest;
+var a, b,c,largest;
 
 a=parseInt(prompt("Enter the first number :",""));
 b=parseInt(prompt("Enter the second number :",""));
