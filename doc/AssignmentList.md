@@ -15,9 +15,13 @@ Write a JavaScript program that will read a string and display the letters one b
 
 Hint. Say, "MARUF" has been provided as input, it will display
         M
+
         A
+
         R
+
         U
+        
         F  
 
 
