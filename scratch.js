@@ -1,5 +1,5 @@
 /*
- * Assingment-3: Write a JavaScrpt program that will take/read two numbers from Keyboard and display the large number on the screen.
+ * Assingment-3: Write a JavaScrpt program that will take/read two numbers from Keyboard and display the larger number on the screen.
  *
  */
 
