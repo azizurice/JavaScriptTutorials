@@ -1,5 +1,5 @@
 /*
- * Assingment-3: Write a JavaScrpt program that will take/read three numbers from Keyboard and display the largest number on the screen.
+ * Assingment-3: Write a JavaScrpt program that will take/read three numbers from Keyboard and display the larger number on the screen.
  */
 
 var a, b,c,largest;
